@@ -3,7 +3,7 @@
  * Reversed by Adam D (kirb), licensed under WTFPL v2
  */
 
-#import <Foundation/Foundation.h>
+#import "UXTableViewCell.h"
 
 typedef NS_ENUM(NSInteger, UXTableViewStyle) {
 	UXTableViewStylePlain,
