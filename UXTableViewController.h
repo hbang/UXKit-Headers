@@ -4,6 +4,8 @@
  */
 
 #import <Foundation/Foundation.h>
+#import "UXTableViewDataSource.h"
+#import "UXTableViewDelegate.h"
 
 @class UXTableView;
 

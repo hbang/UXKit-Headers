@@ -3,7 +3,7 @@
  * Reversed by Adam D (kirb), licensed under WTFPL v2
  */
 
-#import <Foundation/Foundation.h>
+#import <Cocoa/Cocoa.h>
 
 @interface UXCollectionReusableView : NSView
 
