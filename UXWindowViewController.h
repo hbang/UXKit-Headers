@@ -11,4 +11,7 @@
 
 - (instancetype)initWithRootViewController:(UXViewController *)viewController;
 
+@property (retain, nonatomic) UXViewController *rootViewController;
+@property __weak NSToolbarItem *navigationBarToolbarItem;
+
 @end
