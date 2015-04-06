@@ -3,6 +3,7 @@
  * Reversed by Adam D (kirb), licensed under WTFPL v2
  */
 
+#import "UXBarButtonItem.h"
 #import "UXBarItem.h"
 #import "UXCollectionReusableView.h"
 #import "UXCollectionView.h"
@@ -13,6 +14,7 @@
 #import "UXLabel.h"
 #import "UXLayoutSupport.h"
 #import "UXNavigationController.h"
+#import "UXNavigationItem.h"
 #import "UXTabBarController.h"
 #import "UXTabBarItem.h"
 #import "UXTableView.h"
