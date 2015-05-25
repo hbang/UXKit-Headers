@@ -9,8 +9,6 @@
 
 @class UXTableView;
 
-@protocol UXTableViewDataSource, UXTableViewDelegate;
-
 @interface UXTableViewController : UXCollectionViewController <UXTableViewDataSource, UXTableViewDelegate>
 
 @property (readonly, nonatomic) UXTableView *tableView;
