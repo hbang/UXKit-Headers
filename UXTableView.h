@@ -59,6 +59,7 @@ typedef NS_ENUM(NSInteger, UXTableViewRowAnimation) {
 - (NSIndexPath *)indexPathForSelectedRow;
 - (NSIndexPath *)indexPathForClickedRow;
 
+// this method doesn't work. use -[UXCollectionView registerClass:forCellWithReuseIdentifier:]
 - (void)registerClass:(Class)cellClass forCellReuseIdentifier:(NSString *)reuseIdentifier;
 
 - (UXTableViewCell *)dequeueReusableCellWithReuseIdentifier:(NSString *)reuseIdentifier forIndexPath:(NSIndexPath *)indexPath;

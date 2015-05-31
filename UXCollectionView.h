@@ -7,4 +7,6 @@
 
 @interface UXCollectionView : UXView
 
+- (void)registerClass:(Class)cellClass forCellWithReuseIdentifier:(NSString *)reuseIdentifier;
+
 @end
