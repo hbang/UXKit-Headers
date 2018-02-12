@@ -3,4 +3,5 @@ These headers are derived from reverse engineering the UXKit framework, found wi
 
 Contributions are most definitely appreciated - just be sure to keep to the existing coding style.
 
-Licensed under the [WTFPL v2](http://www.wtfpl.net/about/).
+## License
+This is free and unencumbered software released into the public domain. Refer to [LICENSE.md](LICENSE.md).
